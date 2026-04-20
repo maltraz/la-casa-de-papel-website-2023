@@ -2,8 +2,31 @@
 
 Projekt strony internetowej poświęconej serialowi *La Casa de Papel*.
 Zrealizowany w ramach laboratoriów z podstaw tworzenia stron internetowych (HTML, CSS, JavaScript) w 2023 roku.
-
 ---
+
+## Zrzuty ekranu
+
+### Podgląd aplikacji
+
+<p align="center">
+  <img src="screenshots/1.png" width="45%">
+  <img src="screenshots/2.png" width="45%">
+</p>
+
+<p align="center">
+- Ekran startowy <br>
+- Widok listy aktorów z możliwością rozwinięcia dodatkowych informacji.
+</p>
+
+<p align="center">
+  <img src="screenshots/3.png" width="45%">
+  <img src="screenshots/4.png" width="45%">
+</p>
+
+<p align="center">
+- Przykładowa lokalizacja wraz z integracją mapy <br>
+- Formularz zapisu z walidacją i zapisem danych do `localStorage`
+</p>
 
 ## Technologie
 
@@ -59,5 +82,4 @@ Celem projektu było:
 ---
 
 ## Autor
-
 Mateusz Bartosiewicz  
